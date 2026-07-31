@@ -1,0 +1,32 @@
+name: Zip dos Templates
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  zip-templates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Criar templates.zip
+        run: |
+          cd Templates
+          zip -r ../templates.zip .
+
+      - name: Publicar release com link de download
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: templates-latest
+          name: Templates de produção (atualizado automaticamente)
+          body: |
+            ZIP com todos os templates de produção da disciplina, gerado automaticamente a partir do commit ${{ github.sha }} na branch `main`.
+
+            Este release é sempre sobrescrito a cada push — o link abaixo aponta sempre para a versão mais recente dos templates.
+          files: templates.zip

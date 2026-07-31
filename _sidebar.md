@@ -25,6 +25,7 @@
   - Manual do Professor
     - [Manual do Professor](/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md)
   - Templates
+    - [Baixar todos (.zip)](https://github.com/rsdevigo/projeto-integrador-producao/releases/download/templates-latest/templates.zip ':target=_blank')
     - [Backlog do Projeto](/Templates/Template_Backlog_Projeto.md)
     - [GDD Evolutivo](/Templates/Template_GDD_Evolutivo.md)
     - [Registro de Checkpoint Semanal](/Templates/Template_Registro_Checkpoint_Semanal.md)

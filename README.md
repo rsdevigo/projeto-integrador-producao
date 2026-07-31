@@ -38,6 +38,8 @@ Se você tem mais tempo, vale ler o Manual do Professor por completo antes de to
 
 Modelos que as equipes preenchem e mantêm ao longo do semestre, disponíveis em **[Templates](Templates/)**: GDD Evolutivo, Backlog do Projeto, Registro de Checkpoint Semanal, Registro de Riscos, Registro de Decisões, Relatório de Build, Pitch Final e Postmortem.
 
+**[Baixar todos os templates em .zip](https://github.com/rsdevigo/projeto-integrador-producao/releases/download/templates-latest/templates.zip)** — gerado automaticamente a cada push na branch `main`, sempre com a versão mais recente.
+
 ---
 
 ## Se você está assumindo esta disciplina pela primeira vez
