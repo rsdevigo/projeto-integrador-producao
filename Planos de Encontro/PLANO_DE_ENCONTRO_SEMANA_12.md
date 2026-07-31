@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 12
+﻿# Plano de Encontro — Semana 12
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 12 abre a Unidade IV — Vertical Slice, dando sequência ao Gate do Beta aprovado (ou redirecionado) na Semana 11. O escopo já está congelado desde aquele Gate: nenhuma funcionalidade nova deve ser adicionada a partir deste ponto. O trabalho desta semana é exclusivamente de estabilização e correção sobre o escopo existente.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 12 abre a Unidade IV — Vertical Slice, dando sequência ao Gate do Beta aprovado (ou redirecionado) na Semana 11. O escopo já está congelado desde aquele Gate: nenhuma funcionalidade nova deve ser adicionada a partir deste ponto. O trabalho desta semana é exclusivamente de estabilização e correção sobre o escopo existente.
 
 Este é um checkpoint de verificação preparatória, não um Gate formal: seu papel é confirmar que a versão candidata roda do início ao fim sem falhas críticas de fluxo, para que a equipe chegue ao Gate da Semana 13 com segurança.
 
@@ -46,9 +46,9 @@ Este é um checkpoint de verificação preparatória, não um Gate formal: seu p
 Antes do encontro, revisar:
 
 - Resultado do Gate da Semana 11 (aprovado, aprovado com ressalvas ou não aprovado) e as pendências registradas para cada equipe.
-- Registro de acompanhamento das Semanas 10–11, conforme `MANUAL_DO_PROFESSOR.md`, Seção 12.
+- Registro de acompanhamento das Semanas 10–11, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12.
 - Recorte do Vertical Slice validado na Semana 2, como referência do escopo congelado.
-- Critérios de aprovação do Gate da Semana 13 (`CRONOGRAMA.md`), para orientar a equipe sobre o próximo patamar de exigência.
+- Critérios de aprovação do Gate da Semana 13 ([CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md)), para orientar a equipe sobre o próximo patamar de exigência.
 - Lista de riscos remanescentes registrada ao final da Semana 11.
 
 ---
@@ -111,7 +111,7 @@ Resumo dos principais pontos de atenção por equipe e reforço dos critérios d
 | Comunicação da Equipe | | |
 | Riscos | | |
 
-*Nesta semana, o indicador de Build reflete diretamente a proximidade do Gate da Semana 13. Um indicador vermelho em Build ou Integração deve gerar uma lista final de ajustes objetiva e priorizada, conforme `MANUAL_DO_PROFESSOR.md`, Seção 10.*
+*Nesta semana, o indicador de Build reflete diretamente a proximidade do Gate da Semana 13. Um indicador vermelho em Build ou Integração deve gerar uma lista final de ajustes objetiva e priorizada, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 10.*
 
 ---
 
@@ -177,4 +177,4 @@ Resumo dos principais pontos de atenção por equipe e reforço dos critérios d
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

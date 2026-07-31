@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 2
+﻿# Plano de Encontro — Semana 2
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 2 não é semana de Gate formal, mas carrega uma condição de aprovação relevante: **o backlog priorizado e o recorte do Vertical Slice precisam ser aprovados pelo professor antes de a equipe iniciar a configuração da produção na Semana 3** (que é Gate). Este encontro é, portanto, decisivo para o ritmo das duas semanas seguintes.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 2 não é semana de Gate formal, mas carrega uma condição de aprovação relevante: **o backlog priorizado e o recorte do Vertical Slice precisam ser aprovados pelo professor antes de a equipe iniciar a configuração da produção na Semana 3** (que é Gate). Este encontro é, portanto, decisivo para o ritmo das duas semanas seguintes.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Backlog priorizado.
@@ -45,8 +45,8 @@ Antes do encontro, revisar:
 - GDD revisado entregue na Semana 1, por equipe.
 - Papéis e responsabilidades confirmados na Semana 1.
 - Riscos herdados da Pré-Produção sinalizados no encontro anterior.
-- Critérios de definição de Vertical Slice do `COURSE_CONTEXT.md` (Seção 9), para embasar a validação do recorte de cada equipe.
-- Orientações de controle de escopo do `PEDAGOGICAL_RULES.md` (Seção sobre proteção de escopo).
+- Critérios de definição de Vertical Slice do [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md) (Seção 9), para embasar a validação do recorte de cada equipe.
+- Orientações de controle de escopo do [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md) (Seção sobre proteção de escopo).
 
 ---
 
@@ -143,8 +143,8 @@ Síntese dos backlogs e recortes aprovados; reforço da meta da Semana 3.
 | Backlog genérico | Pedir que a equipe reescreva os itens mais críticos em formato acionável durante a própria mentoria. |
 | Priorização sem critério | Introduzir rapidamente um critério simples de priorização (ex.: MoSCoW) e aplicá-lo aos itens centrais do backlog. |
 | Recorte ambicioso demais | Confrontar o recorte proposto com o tempo restante do semestre e solicitar redução objetiva do escopo. |
-| Dificuldade em cortar escopo | Reforçar o princípio de proteção de escopo do `PEDAGOGICAL_RULES.md`: cortar funcionalidade é preferível a aumentar carga de trabalho. |
-| Confusão conceitual sobre Vertical Slice | Retomar a distinção entre Vertical Slice, protótipo e MVP definida no `COURSE_CONTEXT.md` (Seção 9). |
+| Dificuldade em cortar escopo | Reforçar o princípio de proteção de escopo do [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md): cortar funcionalidade é preferível a aumentar carga de trabalho. |
+| Confusão conceitual sobre Vertical Slice | Retomar a distinção entre Vertical Slice, protótipo e MVP definida no [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md) (Seção 9). |
 
 ---
 
@@ -161,7 +161,7 @@ Síntese dos backlogs e recortes aprovados; reforço da meta da Semana 3.
 
 **Tema sugerido:** "Priorização de backlog sob restrição de tempo" (até 15 min).
 
-Conteúdo sugerido: critérios simples de priorização (ex.: MoSCoW, valor x esforço); como usar a priorização para proteger o escopo do Vertical Slice, retomando a lógica de proteção de escopo do `PEDAGOGICAL_RULES.md`.
+Conteúdo sugerido: critérios simples de priorização (ex.: MoSCoW, valor x esforço); como usar a priorização para proteger o escopo do Vertical Slice, retomando a lógica de proteção de escopo do [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md).
 
 Aplicável apenas se as equipes demonstrarem dificuldade real em priorizar — caso contrário, usar o tempo para mentoria individual mais longa.
 
@@ -183,4 +183,4 @@ Aplicável apenas se as equipes demonstrarem dificuldade real em priorizar — c
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

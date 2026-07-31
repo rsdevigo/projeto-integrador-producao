@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 7
+﻿# Plano de Encontro — Semana 7
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 7 encerra a Unidade II — Produção Inicial e Alpha — com um Gate de Aprovação. Ela parte da build estabilizada e com arte, áudio e sistemas secundários integrados, entregue na Semana 6, e exige que a equipe finalize as funcionalidades centrais e corrija defeitos críticos até este encontro.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 7 encerra a Unidade II — Produção Inicial e Alpha — com um Gate de Aprovação. Ela parte da build estabilizada e com arte, áudio e sistemas secundários integrados, entregue na Semana 6, e exige que a equipe finalize as funcionalidades centrais e corrija defeitos críticos até este encontro.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Build Alpha, com o núcleo de gameplay funcional.
@@ -46,8 +46,8 @@ Antes do encontro, revisar:
 - Build entregue na Semana 6 (arte, áudio e sistemas secundários integrados) de cada equipe, como base de comparação.
 - Registro de decisões e de riscos acumulado até a Semana 6, com atenção a gargalos de integração já sinalizados.
 - Recorte do Vertical Slice validado, para confirmar qual é exatamente o "loop principal" que a build Alpha precisa demonstrar.
-- Critérios objetivos do Gate no `CRONOGRAMA.md` e na `RUBRICA_DE_AVALIACAO.md`, para aplicar o mesmo padrão de decisão a todas as equipes.
-- Conforme o `MANUAL_DO_PROFESSOR.md`, em semanas de Gate reservar mais tempo para demonstração e validação e menos para mentoria aberta.
+- Critérios objetivos do Gate no [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md) e na [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md), para aplicar o mesmo padrão de decisão a todas as equipes.
+- Conforme o [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), em semanas de Gate reservar mais tempo para demonstração e validação e menos para mentoria aberta.
 
 ---
 
@@ -180,4 +180,4 @@ Síntese geral da turma: quantas equipes foram aprovadas, riscos recorrentes obs
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

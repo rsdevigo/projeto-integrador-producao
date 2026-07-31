@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 11
+﻿# Plano de Encontro — Semana 11
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 11 encerra a Unidade III — Produção Intermediária e Beta, consolidando o trabalho de estabilização iniciado na Semana 10, quando a equipe verificou a presença de todo o escopo planejado na build, ainda que com defeitos. Esta semana é o momento de confirmar que esses defeitos foram tratados e que o escopo, agora, está congelado.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 11 encerra a Unidade III — Produção Intermediária e Beta, consolidando o trabalho de estabilização iniciado na Semana 10, quando a equipe verificou a presença de todo o escopo planejado na build, ainda que com defeitos. Esta semana é o momento de confirmar que esses defeitos foram tratados e que o escopo, agora, está congelado.
 
 Este é um encontro de **Gate formal**: a equipe só avança para a Unidade IV (Vertical Slice, Semanas 12–13) se a build Beta atender aos critérios de aprovação definidos no Cronograma. Não se trata de uma verificação preparatória, como na semana anterior, mas da decisão objetiva de avanço de fase.
 
@@ -47,9 +47,9 @@ Antes do encontro, revisar:
 
 - Plano de estabilização definido ao final da Semana 10, para comparar o que foi planejado com o que foi de fato executado.
 - Lista de defeitos conhecidos consolidada na Semana 10, verificando quais itens foram corrigidos.
-- Registro de acompanhamento das Semanas 9–10 (progresso, riscos, decisões), conforme `MANUAL_DO_PROFESSOR.md`, Seção 12.
+- Registro de acompanhamento das Semanas 9–10 (progresso, riscos, decisões), conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12.
 - Recorte do Vertical Slice validado na Semana 2, como referência definitiva do que compõe o escopo congelado.
-- Critérios de aprovação do Gate (`CRONOGRAMA.md`), para conduzir a decisão de forma objetiva e consistente entre as equipes.
+- Critérios de aprovação do Gate ([CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md)), para conduzir a decisão de forma objetiva e consistente entre as equipes.
 - Critérios do Gate da Semana 13 (Vertical Slice completo), para já sinalizar à equipe o próximo patamar de exigência.
 
 ---
@@ -112,7 +112,7 @@ Registro formal da decisão de Gate de cada equipe e reforço do que será exigi
 | Comunicação da Equipe | | |
 | Riscos | | |
 
-*Nesta semana, os indicadores de Build e Escopo determinam diretamente a decisão de Gate. Um indicador vermelho em qualquer um dos dois é incompatível com a aprovação do Gate e deve ser tratado como não aprovação, com plano de correção imediato, conforme `MANUAL_DO_PROFESSOR.md`, Seção 10.*
+*Nesta semana, os indicadores de Build e Escopo determinam diretamente a decisão de Gate. Um indicador vermelho em qualquer um dos dois é incompatível com a aprovação do Gate e deve ser tratado como não aprovação, com plano de correção imediato, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 10.*
 
 ---
 
@@ -178,4 +178,4 @@ Registro formal da decisão de Gate de cada equipe e reforço do que será exigi
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

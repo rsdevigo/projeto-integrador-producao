@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 16
+﻿# Plano de Encontro — Semana 16
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 16 é um Gate formal: a equipe só realiza a demonstração ao vivo se a build final rodou sem falhas críticas no ensaio e o pitch comunica claramente o projeto dentro do tempo previsto. Caso o gate não seja aprovado no ensaio, a equipe ajusta build ou discurso antes da apresentação final.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 16 é um Gate formal: a equipe só realiza a demonstração ao vivo se a build final rodou sem falhas críticas no ensaio e o pitch comunica claramente o projeto dentro do tempo previsto. Caso o gate não seja aprovado no ensaio, a equipe ajusta build ou discurso antes da apresentação final.
 
 Este encontro consolida o trabalho da Semana 15, quando a build foi consolidada como "build final de demonstração" e o esboço do roteiro do pitch foi produzido. Diferente dos Gates anteriores — centrados na build —, este Gate avalia dois elementos em conjunto: a estabilidade técnica da build e a qualidade da comunicação do projeto.
 
@@ -35,7 +35,7 @@ Este encontro consolida o trabalho da Semana 15, quando a build foi consolidada 
 
 ## 3. Objetivos do Encontro
 
-1. Validar, por meio de ensaio cronometrado, se o pitch de cada equipe comunica claramente o conceito, o diferencial e o processo de produção do projeto dentro do tempo previsto (12 a 15 minutos + 5 de perguntas, conforme `template-pitch-final.md`).
+1. Validar, por meio de ensaio cronometrado, se o pitch de cada equipe comunica claramente o conceito, o diferencial e o processo de produção do projeto dentro do tempo previsto (12 a 15 minutos + 5 de perguntas, conforme [template-pitch-final.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/template-pitch-final.md)).
 2. Verificar se a build final de demonstração roda do início ao fim do recorte do Vertical Slice sem falhas críticas, incluindo a existência de um vídeo de backup testado.
 3. Confirmar que a documentação final (GDD, backlog, registro de riscos, registro de decisões) está organizada e acessível para consulta da banca, se necessário.
 4. Registrar formalmente o resultado do Gate — aprovado, aprovado com ressalvas ou não aprovado — para cada equipe.
@@ -47,11 +47,11 @@ Este encontro consolida o trabalho da Semana 15, quando a build foi consolidada 
 
 Antes do encontro, revisar:
 
-- Estrutura do roteiro do pitch e tempos sugeridos por seção, conforme `template-pitch-final.md`.
-- Registro de acompanhamento da Semana 15, conforme `MANUAL_DO_PROFESSOR.md`, Seção 12, com foco na build tratada como final e nos riscos residuais apontados.
-- Critério de Pitch Final (10%) da Rubrica de Avaliação (`RUBRICA_DE_AVALIACAO.md`, Seção 4.3), para embasar a devolutiva com critérios objetivos: organização, clareza, domínio do projeto, qualidade da demonstração e postura.
-- Checklist "Antes da apresentação final" do `MANUAL_DO_PROFESSOR.md`, Seção 15, para conferir item a item com cada equipe.
-- Ordem de apresentação, tempo por equipe e formato definidos para a apresentação pública (Seção 13 do `MANUAL_DO_PROFESSOR.md`).
+- Estrutura do roteiro do pitch e tempos sugeridos por seção, conforme [template-pitch-final.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/template-pitch-final.md).
+- Registro de acompanhamento da Semana 15, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12, com foco na build tratada como final e nos riscos residuais apontados.
+- Critério de Pitch Final (10%) da Rubrica de Avaliação ([RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md), Seção 4.3), para embasar a devolutiva com critérios objetivos: organização, clareza, domínio do projeto, qualidade da demonstração e postura.
+- Checklist "Antes da apresentação final" do [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 15, para conferir item a item com cada equipe.
+- Ordem de apresentação, tempo por equipe e formato definidos para a apresentação pública (Seção 13 do [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md)).
 - Os cinco critérios de completude do Vertical Slice, para confirmar que a build ensaiada ainda os sustenta.
 
 ---
@@ -60,7 +60,7 @@ Antes do encontro, revisar:
 
 Cada equipe deve chegar ao encontro com:
 
-- Pitch completo, ensaiado e cronometrado, seguindo a estrutura de `template-pitch-final.md`.
+- Pitch completo, ensaiado e cronometrado, seguindo a estrutura de [template-pitch-final.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/template-pitch-final.md).
 - Build final de demonstração, testada nas mesmas condições previstas para a apresentação pública (equipamento, rede, tempo).
 - Vídeo de backup do Vertical Slice gravado e testado, para o caso de falha na demonstração ao vivo.
 - Slides ou material de apoio revisados, com identidade visual consistente.
@@ -112,7 +112,7 @@ Resumo do resultado de cada equipe, confirmação da ordem e do formato da apres
 | Comunicação da Equipe | | |
 | Riscos | | |
 
-*Nesta semana, os indicadores de Build e Comunicação da Equipe determinam diretamente o resultado do Gate: build refere-se à estabilidade da demonstração ao vivo, e comunicação refere-se à clareza e ao domínio do pitch. Um indicador vermelho em qualquer um dos dois deve levar a um "não aprovado" ou "aprovado com ressalvas", exigindo ajuste antes da apresentação pública, conforme `MANUAL_DO_PROFESSOR.md`, Seção 13.*
+*Nesta semana, os indicadores de Build e Comunicação da Equipe determinam diretamente o resultado do Gate: build refere-se à estabilidade da demonstração ao vivo, e comunicação refere-se à clareza e ao domínio do pitch. Um indicador vermelho em qualquer um dos dois deve levar a um "não aprovado" ou "aprovado com ressalvas", exigindo ajuste antes da apresentação pública, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 13.*
 
 ---
 
@@ -182,4 +182,4 @@ Resumo do resultado de cada equipe, confirmação da ordem e do formato da apres
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md`, `MANUAL_DO_PROFESSOR.md` e `template-pitch-final.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md), [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md) e [template-pitch-final.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/template-pitch-final.md). Nenhuma informação do Cronograma foi alterada.*

@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 4
+﻿# Plano de Encontro — Semana 4
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 4 abre a Unidade II — Produção Inicial e Alpha — e é a primeira semana em que a equipe efetivamente implementa. Ela só ocorre em condições plenas se o Gate da Semana 3 (Entrada em Produção Inicial) tiver sido atendido; caso contrário, parte deste encontro deve ser redirecionada para concluir a organização pendente (ferramenta de gestão, repositório Git, fluxo de build) antes de cobrar avanço de implementação.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 4 abre a Unidade II — Produção Inicial e Alpha — e é a primeira semana em que a equipe efetivamente implementa. Ela só ocorre em condições plenas se o Gate da Semana 3 (Entrada em Produção Inicial) tiver sido atendido; caso contrário, parte deste encontro deve ser redirecionada para concluir a organização pendente (ferramenta de gestão, repositório Git, fluxo de build) antes de cobrar avanço de implementação.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Build com a mecânica principal implementada, ainda que incompleta.
@@ -44,7 +44,7 @@ Antes do encontro, revisar:
 - Resultado do Gate da Semana 3 por equipe (aprovado ou com pendências).
 - Recorte do Vertical Slice e backlog priorizado, para confirmar que a mecânica em implementação corresponde ao que foi validado.
 - Registro de riscos e decisões acumulado até a Semana 3.
-- Diretrizes de controle de escopo e gestão de riscos do `PEDAGOGICAL_RULES.md` (Seções 6 e 7), especialmente para equipes com Gate pendente.
+- Diretrizes de controle de escopo e gestão de riscos do [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md) (Seções 6 e 7), especialmente para equipes com Gate pendente.
 - Critérios de avaliação da Rubrica aplicáveis à fase de implementação inicial.
 
 ---
@@ -186,4 +186,4 @@ Aplicável apenas se a maioria das equipes chegar ao encontro sem ter testado a 
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

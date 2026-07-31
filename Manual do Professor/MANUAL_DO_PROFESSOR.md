@@ -1,6 +1,6 @@
-# Manual do Professor — Projeto Integrador – Produção
+﻿# Manual do Professor — Projeto Integrador – Produção
 
-> Guia operacional de consulta durante o semestre. Alinhado ao `COURSE_CONTEXT.md`, ao `PEDAGOGICAL_RULES.md`, ao Plano de Ensino, ao Cronograma e à Rubrica de Avaliação. Permite que qualquer professor conduza a disciplina com consistência, mesmo sem ter acompanhado a turma na Pré-Produção.
+> Guia operacional de consulta durante o semestre. Alinhado ao [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), ao [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), ao Plano de Ensino, ao Cronograma e à Rubrica de Avaliação. Permite que qualquer professor conduza a disciplina com consistência, mesmo sem ter acompanhado a turma na Pré-Produção.
 
 ---
 
@@ -71,7 +71,7 @@ O professor acompanha e orienta; a responsabilidade pelo projeto — incluindo s
 | Pitch Final | 16 | Apresentar o projeto profissionalmente. | Pitch ensaiado; documentação final. | Ensaio malfeito ou build instável no dia. | Ensaio aprovado (**Gate — Semana 16**). |
 | Encerramento e Postmortem | 17 | Refletir sobre o processo. | Postmortem concluído. | Postmortem genérico, sem reflexão real. | Postmortem concreto e específico (**Gate — Semana 17**). |
 
-Consulte o `CRONOGRAMA.md` para o detalhamento semana a semana, incluindo atividades e checkpoints específicos.
+Consulte o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md) para o detalhamento semana a semana, incluindo atividades e checkpoints específicos.
 
 ---
 
@@ -122,7 +122,7 @@ O feedback deve ser:
 
 ## 9. Uso da Rubrica
 
-A Rubrica de Avaliação (`RUBRICA_DE_AVALIACAO.md`) não deve ser aplicada apenas ao final do semestre. Recomendações:
+A Rubrica de Avaliação ([RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md)) não deve ser aplicada apenas ao final do semestre. Recomendações:
 
 - Após cada checkpoint, registre uma anotação curta por equipe associada ao critério da rubrica mais relevante naquele momento (ex.: "Gestão da Produção — backlog desatualizado desde a Semana 5").
 - Use os critérios de **Gestão da Produção** e **Evolução do Projeto** desde as primeiras semanas — eles não dependem da existência de um Vertical Slice pronto.
@@ -144,7 +144,7 @@ A Rubrica de Avaliação (`RUBRICA_DE_AVALIACAO.md`) não deve ser aplicada apen
 **Estratégias de intervenção:**
 
 - **Reduzir funcionalidades:** pedir para a equipe classificar o backlog em "essencial ao Vertical Slice" e "desejável" — e cortar o desejável sem culpa.
-- **Priorizar o essencial:** reforçar que o Vertical Slice avalia profundidade, não abrangência (ver `COURSE_CONTEXT.md`, Seção 9).
+- **Priorizar o essencial:** reforçar que o Vertical Slice avalia profundidade, não abrangência (ver [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), Seção 9).
 - **Proteger o Vertical Slice:** em caso de conflito entre qualidade e quantidade, a rubrica já prioriza qualidade — deixe isso explícito para a equipe.
 - **Evitar retrabalho:** desencorajar reescrever sistemas já funcionais para "melhorá-los" quando o essencial do escopo ainda não está pronto.
 
@@ -245,4 +245,4 @@ Para cada equipe, verificar se possui:
 
 ---
 
-*Manual do Professor — Projeto Integrador – Produção. Documento de consulta permanente, alinhado ao `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, Plano de Ensino, Cronograma e Rubrica de Avaliação.*
+*Manual do Professor — Projeto Integrador – Produção. Documento de consulta permanente, alinhado ao [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), Plano de Ensino, Cronograma e Rubrica de Avaliação.*

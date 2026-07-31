@@ -1,6 +1,6 @@
-# Rubrica de Avaliação — Projeto Integrador – Produção
+﻿# Rubrica de Avaliação — Projeto Integrador – Produção
 
-> Instrumento oficial de avaliação da disciplina, alinhado ao `COURSE_CONTEXT.md`, ao `PEDAGOGICAL_RULES.md`, ao Plano de Ensino e ao Cronograma. Esta rubrica verifica se a equipe conseguiu integrar, em um Vertical Slice consistente e funcional, os conhecimentos desenvolvidos ao longo de todo o curso — a culminância prática da formação em Tecnologia em Jogos Digitais.
+> Instrumento oficial de avaliação da disciplina, alinhado ao [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), ao [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), ao Plano de Ensino e ao Cronograma. Esta rubrica verifica se a equipe conseguiu integrar, em um Vertical Slice consistente e funcional, os conhecimentos desenvolvidos ao longo de todo o curso — a culminância prática da formação em Tecnologia em Jogos Digitais.
 
 ---
 

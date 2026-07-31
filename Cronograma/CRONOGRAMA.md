@@ -1,4 +1,4 @@
-# Cronograma Detalhado — Projeto Integrador – Produção
+﻿# Cronograma Detalhado — Projeto Integrador – Produção
 
 **Curso Superior de Tecnologia em Jogos Digitais**
 Projeto Integrador – Produção | Studio-Based Learning | 17 Semanas | 38h15
@@ -6,7 +6,7 @@ Projeto Integrador – Produção | Studio-Based Learning | 17 Semanas | 38h15
 > 🔴 **Gate de Aprovação (GATE)** nas semanas: 3, 7, 11, 13, 16 e 17 — controle de qualidade formal entre milestones.
 > 🔵 **Checkpoint regular** nas demais semanas — acompanhamento, mentoria e revisão de progresso.
 
-Alinhado ao `COURSE_CONTEXT.md`, ao `PEDAGOGICAL_RULES.md` e ao Plano de Ensino. Em todas as semanas, o professor atua como mentor, producer, facilitador e avaliador contínuo — nunca como expositor. Nenhuma semana existe para transmitir conteúdo teórico isolado: toda semana produz avanço real e verificável do projeto.
+Alinhado ao [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), ao [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md) e ao Plano de Ensino. Em todas as semanas, o professor atua como mentor, producer, facilitador e avaliador contínuo — nunca como expositor. Nenhuma semana existe para transmitir conteúdo teórico isolado: toda semana produz avanço real e verificável do projeto.
 
 ---
 

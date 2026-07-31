@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 1
+﻿# Plano de Encontro — Semana 1
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Este é o primeiro encontro do semestre. Segundo o `CRONOGRAMA.md`, a Semana 1 não possui Gate de Aprovação — é a semana de abertura, dedicada a reconectar a equipe com o planejamento herdado da Pré-Produção.
+Este é o primeiro encontro do semestre. Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 1 não possui Gate de Aprovação — é a semana de abertura, dedicada a reconectar a equipe com o planejamento herdado da Pré-Produção.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - GDD revisado.
@@ -26,7 +26,7 @@ Este é o primeiro encontro do semestre. Segundo o `CRONOGRAMA.md`, a Semana 1 n
 
 **Preparação exigida para a Semana 2:** backlog inicial revisado e pronto para detalhamento.
 
-Este encontro também é o momento adequado para apresentar a Rubrica de Avaliação por completo à turma, conforme orientado no `RUBRICA_DE_AVALIACAO.md` (Seção 7) — os critérios e pesos devem ser conhecidos por todos desde o Kickoff.
+Este encontro também é o momento adequado para apresentar a Rubrica de Avaliação por completo à turma, conforme orientado no [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) (Seção 7) — os critérios e pesos devem ser conhecidos por todos desde o Kickoff.
 
 ---
 
@@ -48,7 +48,7 @@ Antes do encontro, revisar:
 - Backlog inicial (se já existente) de cada equipe.
 - Registro de riscos herdado da fase anterior, quando disponível.
 - Composição de cada equipe e eventuais mudanças de integrantes entre os semestres.
-- `CRONOGRAMA.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`, para conduzir a apresentação inicial com consistência.
+- [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), para conduzir a apresentação inicial com consistência.
 
 ---
 
@@ -146,7 +146,7 @@ Síntese dos combinados gerais e reforço da meta da Semana 2: backlog priorizad
 | Integrante novo desalinhado | Pedir que a equipe faça uma apresentação interna resumida do GDD para nivelar o integrante antes do próximo encontro. |
 | GDD desatualizado | Reservar tempo do encontro para atualização imediata dos pontos mais críticos, adiando apenas o refinamento fino. |
 | Papéis mal distribuídos | Mediar uma conversa objetiva sobre responsabilidades, evitando sobrecarga concentrada em um único integrante. |
-| Escopo percebido como grande | Antecipar a lógica de proteção de escopo (Seção 7 do `PEDAGOGICAL_RULES.md`): reforçar que o objetivo é um Vertical Slice, não um jogo completo. |
+| Escopo percebido como grande | Antecipar a lógica de proteção de escopo (Seção 7 do [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md)): reforçar que o objetivo é um Vertical Slice, não um jogo completo. |
 | Riscos esquecidos | Retomar o registro de riscos da Pré-Produção junto à equipe e reclassificar prioridades para o novo semestre. |
 
 ---
@@ -164,7 +164,7 @@ Síntese dos combinados gerais e reforço da meta da Semana 2: backlog priorizad
 
 **Tema sugerido:** "Da Pré-Produção à Produção: o que muda no papel da equipe" (até 15 min).
 
-Conteúdo sugerido: diferença entre planejar (Pré-Produção) e executar sob restrição de tempo real (Produção); introdução rápida ao conceito de Vertical Slice versus protótipo versus MVP, retomando a distinção do `COURSE_CONTEXT.md` (Seção 9).
+Conteúdo sugerido: diferença entre planejar (Pré-Produção) e executar sob restrição de tempo real (Produção); introdução rápida ao conceito de Vertical Slice versus protótipo versus MVP, retomando a distinção do [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md) (Seção 9).
 
 Aplicável apenas se a turma demonstrar dúvida real sobre essa transição — caso contrário, usar o tempo para checkpoints mais longos.
 
@@ -186,4 +186,4 @@ Aplicável apenas se a turma demonstrar dúvida real sobre essa transição — 
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

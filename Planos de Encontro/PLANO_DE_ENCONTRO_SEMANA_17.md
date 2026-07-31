@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 17
+﻿# Plano de Encontro — Semana 17
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 17 é o Gate final da disciplina: a equipe só encerra formalmente quando o postmortem identifica, de forma concreta, acertos, dificuldades, decisões relevantes e aprendizados — não apenas uma descrição genérica do semestre.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 17 é o Gate final da disciplina: a equipe só encerra formalmente quando o postmortem identifica, de forma concreta, acertos, dificuldades, decisões relevantes e aprendizados — não apenas uma descrição genérica do semestre.
 
 Este encontro consolida o processo iniciado na Semana 16, quando cada equipe começou a reflexão individual e coletiva sobre o percurso do projeto. Diferente dos Gates anteriores — centrados em build e escopo —, este Gate avalia exclusivamente a qualidade da reflexão crítica da equipe sobre o próprio processo de produção, encerrando o ciclo aberto no Kickoff da Semana 1.
 
@@ -46,11 +46,11 @@ Este encontro consolida o processo iniciado na Semana 16, quando cada equipe com
 
 Antes do encontro, revisar:
 
-- Critério de Postmortem (5%) da Rubrica de Avaliação (`RUBRICA_DE_AVALIACAO.md`, Seção 4.7), para embasar a devolutiva com critérios objetivos: profundidade da análise crítica, evidências concretas e propostas de melhoria aplicáveis.
-- Registros de acompanhamento de todas as semanas anteriores, conforme `MANUAL_DO_PROFESSOR.md`, Seção 12, para contrastar o relato do postmortem com o histórico real observado nos checkpoints.
+- Critério de Postmortem (5%) da Rubrica de Avaliação ([RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md), Seção 4.7), para embasar a devolutiva com critérios objetivos: profundidade da análise crítica, evidências concretas e propostas de melhoria aplicáveis.
+- Registros de acompanhamento de todas as semanas anteriores, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12, para contrastar o relato do postmortem com o histórico real observado nos checkpoints.
 - Resultado do Gate da Semana 16 (Pitch Final) de cada equipe, para verificar se ajustes de última hora ou pendências foram mencionados de forma honesta no postmortem.
-- Seção 14 do `MANUAL_DO_PROFESSOR.md` ("Encerramento da Disciplina"), que orienta a condução da discussão coletiva final.
-- Checklist "Antes da apresentação final" do `MANUAL_DO_PROFESSOR.md`, Seção 15, para confirmar que todos os itens do semestre foram atendidos por cada equipe.
+- Seção 14 do [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md) ("Encerramento da Disciplina"), que orienta a condução da discussão coletiva final.
+- Checklist "Antes da apresentação final" do [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 15, para confirmar que todos os itens do semestre foram atendidos por cada equipe.
 
 ---
 
@@ -58,7 +58,7 @@ Antes do encontro, revisar:
 
 Cada equipe deve chegar ao encontro com:
 
-- Documento de postmortem concluído, seguindo a estrutura de `Template_Postmortem.md`, com todas as onze seções preenchidas.
+- Documento de postmortem concluído, seguindo a estrutura de [Template_Postmortem.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/Template_Postmortem.md), com todas as onze seções preenchidas.
 - Uma lição aprendida específica, selecionada previamente pela equipe, para compartilhar com as demais equipes na discussão coletiva.
 - Documentação final organizada e acessível, caso o professor precise confrontar o relato do postmortem com registros do semestre (GDD, backlog, registro de riscos, registro de decisões).
 - Todos os integrantes preparados para participar da discussão — o postmortem deve refletir a percepção coletiva da equipe, não apenas de um integrante.
@@ -77,7 +77,7 @@ Para cada equipe, leitura prévia do documento (ou apresentação oral resumida 
 Para cada equipe, o professor comunica o resultado do Gate de encerramento — aprovado ou necessita de complementação — com base na profundidade e concretude da análise apresentada.
 
 ### Discussão coletiva entre equipes (25 min)
-Cada equipe compartilha, em poucos minutos, a lição aprendida selecionada previamente. Comentários breves entre equipes sobre os projetos umas das outras, conforme `MANUAL_DO_PROFESSOR.md`, Seção 14.
+Cada equipe compartilha, em poucos minutos, a lição aprendida selecionada previamente. Comentários breves entre equipes sobre os projetos umas das outras, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 14.
 
 ### Encerramento (10 min)
 Reconhecimento público das entregas de cada equipe, síntese da evolução observada ao longo do semestre e fechamento formal da disciplina.
@@ -113,7 +113,7 @@ Reconhecimento público das entregas de cada equipe, síntese da evolução obse
 
 ## 9. Critérios de Verificação
 
-- [ ] Documento de postmortem entregue, com todas as seções do `Template_Postmortem.md` preenchidas.
+- [ ] Documento de postmortem entregue, com todas as seções do [Template_Postmortem.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/Template_Postmortem.md) preenchidas.
 - [ ] Análise identifica sucessos e problemas com evidências concretas do próprio projeto.
 - [ ] Lições aprendidas são específicas e aplicáveis a projetos futuros, não genéricas.
 - [ ] Decisões de maior impacto do semestre estão registradas e comentadas criticamente.
@@ -138,8 +138,8 @@ Reconhecimento público das entregas de cada equipe, síntese da evolução obse
 
 | Problema | Ação recomendada |
 |---|---|
-| Postmortem meramente descritivo | Utilizar as perguntas orientadoras do `Template_Postmortem.md` para provocar, na própria discussão, exemplos concretos que devem ser incorporados ao documento. |
-| Dificuldades relatadas de forma genérica | Confrontar o relato com os registros de acompanhamento (Seção 12 do `MANUAL_DO_PROFESSOR.md`), pedindo que a equipe cite o episódio específico por trás da dificuldade mencionada. |
+| Postmortem meramente descritivo | Utilizar as perguntas orientadoras do [Template_Postmortem.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/Template_Postmortem.md) para provocar, na própria discussão, exemplos concretos que devem ser incorporados ao documento. |
+| Dificuldades relatadas de forma genérica | Confrontar o relato com os registros de acompanhamento (Seção 12 do [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md)), pedindo que a equipe cite o episódio específico por trás da dificuldade mencionada. |
 | Divergência com os registros do semestre | Apontar a divergência diretamente à equipe e solicitar ajuste do documento antes de considerar o Gate aprovado. |
 | Postmortem sem percepção coletiva | Solicitar comentário de cada integrante durante a discussão presencial, mesmo que o documento já esteja escrito. |
 | Equipe evita autocrítica | Conduzir a conversa com perguntas específicas e não acusatórias, reforçando que o objetivo é o aprendizado, não a penalização. |
@@ -172,4 +172,4 @@ Reconhecimento público das entregas de cada equipe, síntese da evolução obse
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md`, `MANUAL_DO_PROFESSOR.md` e `Template_Postmortem.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md), [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md) e [Template_Postmortem.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Templates/Template_Postmortem.md). Nenhuma informação do Cronograma foi alterada.*

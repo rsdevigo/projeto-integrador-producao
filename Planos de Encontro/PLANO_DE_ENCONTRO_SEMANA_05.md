@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 5
+﻿# Plano de Encontro — Semana 5
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 5 dá sequência à Unidade II — Produção Inicial e Alpha. Ela parte diretamente da lista de ajustes da mecânica principal registrada no backlog ao final da Semana 4 e amplia o foco da equipe para além da mecânica isolada, iniciando a produção de conteúdo e assets.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 5 dá sequência à Unidade II — Produção Inicial e Alpha. Ela parte diretamente da lista de ajustes da mecânica principal registrada no backlog ao final da Semana 4 e amplia o foco da equipe para além da mecânica isolada, iniciando a produção de conteúdo e assets.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Build com mecânica principal ajustada.
@@ -188,4 +188,4 @@ Aplicável apenas se a maioria das equipes chegar ao encontro com assets produzi
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 9
+﻿# Plano de Encontro — Semana 9
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 9 dá continuidade à Unidade III — Produção Intermediária e Beta, sucedendo o checkpoint regular da Semana 8, no qual o conteúdo do Vertical Slice foi expandido sobre a base validada no Gate do Alpha. Nesta semana, o foco desloca-se da produção de conteúdo para a consolidação da experiência de UX e da identidade visual sobre esse conteúdo já expandido.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 9 dá continuidade à Unidade III — Produção Intermediária e Beta, sucedendo o checkpoint regular da Semana 8, no qual o conteúdo do Vertical Slice foi expandido sobre a base validada no Gate do Alpha. Nesta semana, o foco desloca-se da produção de conteúdo para a consolidação da experiência de UX e da identidade visual sobre esse conteúdo já expandido.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Build com interface funcional.
@@ -46,7 +46,7 @@ Antes do encontro, revisar:
 
 - Estado do conteúdo expandido na Semana 8 e eventuais riscos de escopo já sinalizados.
 - Plano de integração de áudio e UX esboçado ao final da Semana 8.
-- Registro de acompanhamento das Semanas 7–8 (progresso, riscos, decisões), conforme `MANUAL_DO_PROFESSOR.md`, Seção 12.
+- Registro de acompanhamento das Semanas 7–8 (progresso, riscos, decisões), conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12.
 - Recorte do Vertical Slice validado na Semana 2, como referência para avaliar a coerência da identidade visual.
 - Registro de riscos acumulado, com atenção a riscos de integração de UX ou áudio ainda em aberto.
 
@@ -110,7 +110,7 @@ Síntese geral da turma: padrões recorrentes de problemas de usabilidade observ
 | Comunicação da Equipe | | |
 | Riscos | | |
 
-*Nesta semana, o indicador de Integração merece atenção redobrada: interface e identidade visual precisam estar integradas ao conteúdo já existente, e não apenas sobrepostas a ele. Um indicador vermelho em Integração ou em Escopo deve gerar intervenção imediata, conforme `MANUAL_DO_PROFESSOR.md`, Seção 10.*
+*Nesta semana, o indicador de Integração merece atenção redobrada: interface e identidade visual precisam estar integradas ao conteúdo já existente, e não apenas sobrepostas a ele. Um indicador vermelho em Integração ou em Escopo deve gerar intervenção imediata, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 10.*
 
 ---
 
@@ -176,4 +176,4 @@ Síntese geral da turma: padrões recorrentes de problemas de usabilidade observ
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

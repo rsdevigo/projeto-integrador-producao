@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 6
+﻿# Plano de Encontro — Semana 6
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 6 encerra a Unidade II — Produção Inicial e Alpha — e é a última semana antes do Gate da Semana 7. Ela parte da build com mecânica ajustada e primeiros assets integrados, entregue na Semana 5, e amplia o escopo da integração para incluir áudio e sistemas secundários, preparando a equipe para a verificação preparatória do Gate de Alpha.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 6 encerra a Unidade II — Produção Inicial e Alpha — e é a última semana antes do Gate da Semana 7. Ela parte da build com mecânica ajustada e primeiros assets integrados, entregue na Semana 5, e amplia o escopo da integração para incluir áudio e sistemas secundários, preparando a equipe para a verificação preparatória do Gate de Alpha.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Build integrada com arte e áudio iniciais.
@@ -188,4 +188,4 @@ Aplicável apenas se a maioria das equipes apresentar dificuldades reais de inte
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

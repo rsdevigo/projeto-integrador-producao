@@ -1,6 +1,6 @@
-# PEDAGOGICAL_RULES.md
+﻿# PEDAGOGICAL_RULES.md
 
-> Guia pedagógico permanente da disciplina **Projeto Integrador – Produção**. Este documento não descreve a disciplina — estabelece as regras que devem orientar a criação de todos os materiais didáticos (cronograma, planos de encontro, slides, rubricas, templates e manual do professor). Ver também `COURSE_CONTEXT.md`.
+> Guia pedagógico permanente da disciplina **Projeto Integrador – Produção**. Este documento não descreve a disciplina — estabelece as regras que devem orientar a criação de todos os materiais didáticos (cronograma, planos de encontro, slides, rubricas, templates e manual do professor). Ver também [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md).
 
 ---
 

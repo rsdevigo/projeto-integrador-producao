@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 15
+﻿# Plano de Encontro — Semana 15
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 15 encerra a Unidade V — Polimento e Pitch Final — com o objetivo de concluir o polimento e preparar a build final de demonstração. O Gate desta semana é preparatório: verifica se a build de demonstração está estável em testes internos, condição de entrada para o Gate formal da Semana 16 (Pronto para apresentação pública).
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 15 encerra a Unidade V — Polimento e Pitch Final — com o objetivo de concluir o polimento e preparar a build final de demonstração. O Gate desta semana é preparatório: verifica se a build de demonstração está estável em testes internos, condição de entrada para o Gate formal da Semana 16 (Pronto para apresentação pública).
 
 Este encontro dá continuidade direta ao trabalho iniciado na Semana 14. Equipes que saíram daquele encontro em polimento devem chegar com os ajustes de maior impacto já aplicados; equipes que saíram fechando lacunas de completude devem confirmar, neste encontro, que essas lacunas foram resolvidas antes de qualquer novo ajuste cosmético.
 
@@ -46,11 +46,11 @@ Este encontro dá continuidade direta ao trabalho iniciado na Semana 14. Equipes
 Antes do encontro, revisar:
 
 - Direcionamento dado a cada equipe na Semana 14 (polimento ou fechamento de lacunas) e se a meta combinada foi cumprida.
-- Registro de acompanhamento da Semana 14, conforme `MANUAL_DO_PROFESSOR.md`, Seção 12.
-- Os cinco critérios de completude do Vertical Slice (`COURSE_CONTEXT.md`, Seção 9), para confirmar que a build final ainda os atende integralmente.
-- Estrutura do Gate da Semana 16 no `CRONOGRAMA.md`, para já alinhar expectativas sobre o ensaio do pitch e a condição de estabilidade exigida.
+- Registro de acompanhamento da Semana 14, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12.
+- Os cinco critérios de completude do Vertical Slice ([COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), Seção 9), para confirmar que a build final ainda os atende integralmente.
+- Estrutura do Gate da Semana 16 no [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), para já alinhar expectativas sobre o ensaio do pitch e a condição de estabilidade exigida.
 - Rubrica de Avaliação, critérios de Vertical Slice (35%), Qualidade Técnica (20%) e Pitch Final (10%), já que esta semana articula os três.
-- Seção 10 do `MANUAL_DO_PROFESSOR.md` (Gestão do Escopo), para reconhecer qualquer tentativa de expandir escopo sob pretexto de "aproveitar o tempo restante".
+- Seção 10 do [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md) (Gestão do Escopo), para reconhecer qualquer tentativa de expandir escopo sob pretexto de "aproveitar o tempo restante".
 
 ---
 
@@ -176,4 +176,4 @@ Síntese geral da turma, reforço do prazo até o ensaio da Semana 16 e alerta s
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

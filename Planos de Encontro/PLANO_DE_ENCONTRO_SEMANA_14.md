@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 14
+﻿# Plano de Encontro — Semana 14
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 14 abre a Unidade V — Polimento e Pitch Final — com o objetivo de elevar a qualidade percebida do Vertical Slice já fechado na Semana 13. O Gate de Aprovação desta semana é informal: verifica se nenhum ajuste de polimento reabriu escopo fechado no Gate anterior.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 14 abre a Unidade V — Polimento e Pitch Final — com o objetivo de elevar a qualidade percebida do Vertical Slice já fechado na Semana 13. O Gate de Aprovação desta semana é informal: verifica se nenhum ajuste de polimento reabriu escopo fechado no Gate anterior.
 
 Este encontro depende diretamente do resultado individual de cada equipe no Gate da Semana 13. Não existe um único roteiro para toda a turma: equipes aprovadas seguem para polimento; equipes não aprovadas ou aprovadas com ressalvas usam esta semana para fechar as lacunas de completude antes de iniciar qualquer polimento, conforme já determinado pelo próprio Cronograma na Semana 13.
 
@@ -46,10 +46,10 @@ Este encontro depende diretamente do resultado individual de cada equipe no Gate
 Antes do encontro, revisar:
 
 - Resultado do Gate da Semana 13 de cada equipe (aprovado / aprovado com ressalvas / não aprovado) e as lacunas específicas registradas, quando houver.
-- Registro de acompanhamento das Semanas 12–13, conforme `MANUAL_DO_PROFESSOR.md`, Seção 12.
-- Os cinco critérios de completude do Vertical Slice (`COURSE_CONTEXT.md`, Seção 9), para distinguir com clareza o que é lacuna de funcionalidade e o que é ajuste cosmético de polimento.
-- Rubrica de Avaliação (`RUBRICA_DE_AVALIACAO.md`), critério de Vertical Slice (35%) e Qualidade Técnica (20%), para calibrar o que realmente eleva o nível de desempenho da equipe nesta fase.
-- Seção 10 do `MANUAL_DO_PROFESSOR.md` (Gestão do Escopo), para reconhecer sinais de reabertura de escopo disfarçada de polimento.
+- Registro de acompanhamento das Semanas 12–13, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12.
+- Os cinco critérios de completude do Vertical Slice ([COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), Seção 9), para distinguir com clareza o que é lacuna de funcionalidade e o que é ajuste cosmético de polimento.
+- Rubrica de Avaliação ([RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md)), critério de Vertical Slice (35%) e Qualidade Técnica (20%), para calibrar o que realmente eleva o nível de desempenho da equipe nesta fase.
+- Seção 10 do [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md) (Gestão do Escopo), para reconhecer sinais de reabertura de escopo disfarçada de polimento.
 
 ---
 
@@ -115,7 +115,7 @@ Síntese dos direcionamentos por equipe e reforço da proteção de escopo.
 | Comunicação da Equipe | | |
 | Riscos | | |
 
-*Nesta semana, o indicador de Escopo é o mais sensível: qualquer sinal amarelo ou vermelho deve ser investigado como possível reabertura de funcionalidades fechadas no Gate da Semana 13, conforme `MANUAL_DO_PROFESSOR.md`, Seção 10.*
+*Nesta semana, o indicador de Escopo é o mais sensível: qualquer sinal amarelo ou vermelho deve ser investigado como possível reabertura de funcionalidades fechadas no Gate da Semana 13, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 10.*
 
 ---
 
@@ -187,4 +187,4 @@ Síntese dos direcionamentos por equipe e reforço da proteção de escopo.
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

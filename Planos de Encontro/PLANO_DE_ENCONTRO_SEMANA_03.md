@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 3
+﻿# Plano de Encontro — Semana 3
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 3 é a primeira semana de **Gate formal** do semestre: **Entrada em Produção Inicial**. A equipe só avança para a implementação (Semana 4) se tiver backlog priorizado, ferramenta de gestão em uso, repositório Git ativo e fluxo de build compreendido. Sem esses itens, o próprio encontro da Semana 4 é redirecionado para concluir a organização, em vez de iniciar a implementação — ou seja, este gate condiciona diretamente o ritmo da unidade seguinte.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 3 é a primeira semana de **Gate formal** do semestre: **Entrada em Produção Inicial**. A equipe só avança para a implementação (Semana 4) se tiver backlog priorizado, ferramenta de gestão em uso, repositório Git ativo e fluxo de build compreendido. Sem esses itens, o próprio encontro da Semana 4 é redirecionado para concluir a organização, em vez de iniciar a implementação — ou seja, este gate condiciona diretamente o ritmo da unidade seguinte.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Projeto configurado na ferramenta de gestão.
@@ -45,8 +45,8 @@ Antes do encontro, revisar:
 
 - Backlog priorizado e recorte do Vertical Slice validados na Semana 2, por equipe.
 - Registro de decisões e riscos acumulados desde a Semana 1.
-- Critérios do Gate de Entrada em Produção Inicial definidos no `CRONOGRAMA.md` (Semana 3), para aplicá-los de forma objetiva a cada equipe.
-- Diretrizes de gestão de riscos e controle de escopo do `PEDAGOGICAL_RULES.md` (Seções 6 e 7).
+- Critérios do Gate de Entrada em Produção Inicial definidos no [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md) (Semana 3), para aplicá-los de forma objetiva a cada equipe.
+- Diretrizes de gestão de riscos e controle de escopo do [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md) (Seções 6 e 7).
 - Rubrica de avaliação, para embasar o registro formal deste primeiro Gate do semestre.
 
 ---
@@ -188,4 +188,4 @@ Aplicável apenas se várias equipes demonstrarem dificuldade real com o fluxo d
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*

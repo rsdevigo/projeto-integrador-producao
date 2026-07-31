@@ -1,4 +1,4 @@
-# Plano de Encontro — Semana 8
+﻿# Plano de Encontro — Semana 8
 
 **Projeto Integrador – Produção | Curso Superior de Tecnologia em Jogos Digitais**
 
@@ -18,7 +18,7 @@
 
 ## 2. Relação com o Cronograma
 
-Segundo o `CRONOGRAMA.md`, a Semana 8 abre a Unidade III — Produção Intermediária e Beta — como checkpoint regular, imediatamente após o Gate de aprovação do Alpha na Semana 7. A equipe parte de uma build com o loop principal de gameplay integrado e jogável do início ao fim, e passa a produzir conteúdo adicional (fases, níveis, elementos de UX) sobre essa base validada.
+Segundo o [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), a Semana 8 abre a Unidade III — Produção Intermediária e Beta — como checkpoint regular, imediatamente após o Gate de aprovação do Alpha na Semana 7. A equipe parte de uma build com o loop principal de gameplay integrado e jogável do início ao fim, e passa a produzir conteúdo adicional (fases, níveis, elementos de UX) sobre essa base validada.
 
 **Entregáveis previstos para esta semana (Cronograma):**
 - Build com conteúdo expandido.
@@ -46,7 +46,7 @@ Antes do encontro, revisar:
 
 - Decisão do Gate da Semana 7 de cada equipe (aprovada ou redirecionada) e o plano combinado a partir dela.
 - Backlog reorganizado para a Produção Intermediária, entregue ao final da Semana 7.
-- Registro de acompanhamento das Semanas 6–7 (progresso, riscos, decisões), conforme `MANUAL_DO_PROFESSOR.md`, Seção 12.
+- Registro de acompanhamento das Semanas 6–7 (progresso, riscos, decisões), conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 12.
 - Recorte do Vertical Slice validado na Semana 2, como referência para avaliar se o novo conteúdo está dentro do escopo combinado.
 - Registro de riscos acumulado, com atenção a qualquer risco de integração ainda não resolvido.
 
@@ -110,7 +110,7 @@ Síntese geral da turma: ritmo de expansão de conteúdo observado e riscos reco
 | Comunicação da Equipe | | |
 | Riscos | | |
 
-*Nesta semana, o indicador de Escopo merece atenção redobrada: conteúdo novo sendo produzido não pode significar expansão além do recorte do Vertical Slice já validado. Um indicador vermelho em Escopo deve gerar intervenção imediata, conforme `MANUAL_DO_PROFESSOR.md`, Seção 10.*
+*Nesta semana, o indicador de Escopo merece atenção redobrada: conteúdo novo sendo produzido não pode significar expansão além do recorte do Vertical Slice já validado. Um indicador vermelho em Escopo deve gerar intervenção imediata, conforme [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md), Seção 10.*
 
 ---
 
@@ -176,4 +176,4 @@ Síntese geral da turma: ritmo de expansão de conteúdo observado e riscos reco
 
 ---
 
-*Plano de Encontro gerado automaticamente a partir do `CRONOGRAMA.md`, `COURSE_CONTEXT.md`, `PEDAGOGICAL_RULES.md`, `PLANO_DE_ENSINO.md`, `RUBRICA_DE_AVALIACAO.md` e `MANUAL_DO_PROFESSOR.md`. Nenhuma informação do Cronograma foi alterada.*
+*Plano de Encontro gerado automaticamente a partir do [CRONOGRAMA.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Cronograma/CRONOGRAMA.md), [COURSE_CONTEXT.md](https://rsdevigo.github.io/projeto-integrador-producao/#/COURSE_CONTEXT.md), [PEDAGOGICAL_RULES.md](https://rsdevigo.github.io/projeto-integrador-producao/#/PEDAGOGICAL_RULES.md), [PLANO_DE_ENSINO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/PLANO_DE_ENSINO.md), [RUBRICA_DE_AVALIACAO.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Plano%20de%20Ensino/RUBRICA_DE_AVALIACAO.md) e [MANUAL_DO_PROFESSOR.md](https://rsdevigo.github.io/projeto-integrador-producao/#/Manual%20do%20Professor/MANUAL_DO_PROFESSOR.md). Nenhuma informação do Cronograma foi alterada.*
